@@ -51,3 +51,7 @@ padding: 10px 15px;
 tbody tr:nth-child(even) {
 background: white;
 }
+
+img, object {
+     max-width: 100%;
+}
